@@ -1,0 +1,14 @@
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\bin\Debug\net8.0\TaxiPark.exe
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\bin\Debug\net8.0\TaxiPark.deps.json
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\bin\Debug\net8.0\TaxiPark.runtimeconfig.json
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\bin\Debug\net8.0\TaxiPark.dll
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\bin\Debug\net8.0\TaxiPark.pdb
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.AssemblyInfoInputs.cache
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.AssemblyInfo.cs
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.csproj.CoreCompileInputs.cache
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.dll
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\refint\TaxiPark.dll
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.pdb
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\TaxiPark.genruntimeconfig.cache
+C:\Users\zxcho\source\repos\TaxiPark\TaxiPark\obj\Debug\net8.0\ref\TaxiPark.dll
